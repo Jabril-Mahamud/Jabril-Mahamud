@@ -1,11 +1,9 @@
 # Hi, I'm Jabril
 
 I'm a Software Engineer with 4 years of experience building and maintaining production systems at **BP**.  
-I've worked across the full stack — from React frontends and RESTful APIs to backend microservices, cloud infrastructure, and more recently, **platform engineering and observability**.
+I've worked across the full stack, from React frontends and RESTful APIs to backend microservices, cloud infrastructure, and more recently, **platform engineering and observability**.
 
 I'm currently working with **Kubernetes**, **Go**, and the **LGTM observability stack** (Loki, Grafana, Tempo, Mimir), focusing on improving how we monitor, debug, and scale distributed systems.
-
----
 
 ### What I Do at BP
 
@@ -25,8 +23,6 @@ I've spent several years at BP building **full-stack applications and backend se
 - Deployed and managed cloud infrastructure on **AWS EC2**, improving resource utilization and monitoring  
 - Participated in **Agile teams**, including sprint planning, code reviews, stakeholder demos, and retrospectives  
 
----
-
 ### Technical Background
 
 **Languages:** Go, TypeScript, Python, C#, JavaScript, SQL  
@@ -37,17 +33,13 @@ I've spent several years at BP building **full-stack applications and backend se
 **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB  
 **DevOps:** CI/CD pipelines, Git, infrastructure automation  
 
----
-
 ### Current Learning Focus
 
 I'm actively deepening my knowledge in:
-- **Kubernetes internals** — understanding pods, deployments, services, operators, and cluster management  
+- **Kubernetes internals**, understanding pods, deployments, services, operators, and cluster management  
 - **Go** for building efficient, production-grade backend services and tooling  
-- **Distributed tracing and observability** — using Tempo, Loki, and Grafana to debug and optimize microservices  
-- **Platform engineering patterns** — applying full-stack experience to infrastructure and developer experience challenges  
-
----
+- **Distributed tracing and observability**, using Tempo, Loki, and Grafana to debug and optimize microservices  
+- **Platform engineering patterns**, applying full-stack experience to infrastructure and developer experience challenges  
 
 ### Key Projects
 
@@ -57,8 +49,6 @@ Built scalable microservices processing large energy market datasets using **Nod
 **Real-time Data Processing Pipeline** (BP)  
 Created a Python-based **AWS EC2 monitoring system** with real-time analytics dashboards using **React and Django**, improving operational visibility and resource tracking.
 
----
-
 ### What I'm Working Toward
 
 - Building **production-grade Kubernetes expertise** through hands-on work  
@@ -66,12 +56,8 @@ Created a Python-based **AWS EC2 monitoring system** with real-time analytics da
 - Contributing to **observability infrastructure** that helps teams understand and improve their systems  
 - Bridging the gap between **product engineering and platform engineering** by applying full-stack thinking to infrastructure problems  
 
----
-
 ### Notes
 
 I've spent 4 years at BP working across different layers of the stack. While much of my work is internal and not public, I'm always happy to discuss **cloud-native engineering, observability, microservices architecture**, or anything full-stack related.
 
 Currently based in **London, UK**.
-
----
