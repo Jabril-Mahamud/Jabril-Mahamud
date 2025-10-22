@@ -42,3 +42,8 @@ Created a Python-based **AWS EC2 monitoring system** with real-time analytics da
 I've spent 4 years at BP working across different layers of the stack. While much of my work is internal and not public, I'm always happy to discuss **cloud-native engineering, observability, microservices architecture**, or anything full-stack related 🤔.
 
 Currently based in **London, UK** 👋.
+
+## Contact
+Feel free to reach out via email or Discord:
+- Email: jabrilmahamud2907@gmail.com
+- Discord: cilmi_doone
