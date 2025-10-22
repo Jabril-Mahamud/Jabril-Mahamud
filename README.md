@@ -1,45 +1,79 @@
-# 👋 Hi, I'm Jabril
+# Hi, I'm Jabril
 
-I'm a Software Engineer with a passion for building robust, scalable, and meaningful systems.  
-I’ve worked across the full stack — from front-end interfaces to backend services and cloud infrastructure — and I’m always looking for ways to make technology more efficient, reliable, and impactful.  
+I'm a Software Engineer with 4 years of experience building and maintaining production systems at **BP**.  
+I've worked across the full stack — from React frontends and RESTful APIs to backend microservices, cloud infrastructure, and most recently, **platform engineering and observability**.
 
-Currently, I’m working at **BP**, focusing on **Go**, **Kubernetes**, and the **LGTM stack** to strengthen observability and reliability across distributed systems.
-
----
-
-### 🧠 What I Bring
-- 💻 Experience across **frontend, backend, and cloud** — capable of taking projects end-to-end  
-- ⚙️ Skilled in **TypeScript, React, Node.js, Python, and SQL**  
-- ☁️ Deep understanding of **AWS, Azure, Docker, and CI/CD pipelines**  
-- 🔍 Interested in the intersection of **systems engineering, developer experience, and reliability**
+More Recently, I've transitioned into working with **Kubernetes**, **Go**, and the **LGTM observability stack** (Loki, Grafana, Tempo, Mimir), focusing on improving how we monitor, debug, and scale distributed systems across the organization.
 
 ---
 
-### 💡 Currently Working On
-- Expanding my skills in **Go** for backend and infrastructure applications  
-- Developing a stronger understanding of **Kubernetes internals** and **Helm-based deployments**  
-- Building out **observability pipelines** using the **LGTM stack (Loki, Grafana, Tempo, Mimir)**  
-- Continuing to explore how full-stack principles apply within cloud-native systems
+### What I Do at BP
+
+**Current Role (Recent Transition - Oct 2024):**  
+I'm now focused on **platform engineering and observability**, working with:
+- **Kubernetes** for container orchestration and cluster management  
+- **Go** for building internal tooling and backend services  
+- **LGTM Stack** (Loki, Grafana, Tempo, Mimir) for distributed tracing, logging, and metrics  
+- Improving service reliability, debugging workflows, and system observability across microservices  
+
+**Previous Work (2021-2024):**  
+Before this transition, I spent ~3 years building **full-stack applications and backend services**:
+- Developed **microservices** in **C#** and **Node.js**, integrated with **React** dashboards for real-time analytics  
+- Designed and maintained **RESTful APIs** for high-throughput energy market data services  
+- Built **serverless applications** on **Azure**, including Functions, API Management, and automated CI/CD pipelines  
+- Worked extensively with **Python** and **Django** for data processing pipelines and internal tooling  
+- Deployed and managed cloud infrastructure on **AWS EC2**, improving resource utilization and monitoring  
+- Participated in **Agile teams**, including sprint planning, code reviews, stakeholder demos, and retrospectives  
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** Go · TypeScript · Python · SQL  
-**Frameworks:** Next.js · Django · ASP.NET · React  
-**Cloud & Infra:** AWS · Azure · Kubernetes · Docker · Helm  
-**Observability & Tooling:** Loki · Grafana · Tempo · Prometheus  
+### Technical Background
+
+I've worked across the full stack, which gives me a strong understanding of how systems connect from frontend to infrastructure:
+
+**Languages:** Go (learning), TypeScript, Python, C#, JavaScript, SQL  
+**Frontend:** React, Next.js  
+**Backend & APIs:** Node.js, Django, ASP.NET, Express  
+**Cloud & Infrastructure:** Kubernetes, Docker, Helm, AWS, Azure  
+**Observability:** Grafana, Loki, Tempo, Prometheus, Mimir  
+**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB  
+**DevOps:** CI/CD pipelines, Git, infrastructure automation  
 
 ---
 
-### 🚀 Ongoing Goals
-- Keep applying my full-stack experience to complex, distributed environments  
-- Contribute to or create tools that make cloud systems easier to observe and maintain  
-- Constantly learn and refine my approach to scalable, maintainable software
+### Current Learning Focus
+
+I'm actively deepening my knowledge in:
+- **Kubernetes internals** — understanding pods, deployments, services, operators, and cluster management  
+- **Go** for building efficient, production-grade backend services and tooling  
+- **Distributed tracing and observability** — using Tempo, Loki, and Grafana to debug and optimize microservices  
+- **Platform engineering patterns** — applying full-stack experience to infrastructure and developer experience challenges  
 
 ---
 
-### 💬 Notes
-This profile reflects my ongoing journey as a developer.  
-Some parts of my work aren’t public (such as projects at BP), but I’m always open to sharing insights or discussing my current stack if you’re interested.  
+### Key Projects
+
+**Energy Market Analytics Platform** (BP)  
+Built scalable microservices processing large energy market datasets using **Node.js, C#, React, TypeScript**, and **Azure Functions**. Developed real-time dashboards and integrated API Management for notification workflows.
+
+**Real-time Data Processing Pipeline** (BP)  
+Created a Python-based **AWS EC2 monitoring system** with real-time analytics dashboards using **React and Django**, improving operational visibility and resource tracking.
+
+---
+
+### What I'm Working Toward
+
+- Building **production-grade Kubernetes expertise** through hands-on work and experimentation  
+- Writing clean, efficient **Go code** for backend services and internal tooling  
+- Contributing to **observability infrastructure** that helps teams understand and improve their systems  
+- Bridging the gap between **product engineering and platform engineering** by applying full-stack thinking to infrastructure problems  
+
+---
+
+### Notes
+
+I've spent 4 years at BP working across different layers of the stack. While much of my recent work (especially around Kubernetes and LGTM) is internal and not public, I'm always happy to discuss **cloud-native engineering, observability, microservices architecture**, or anything full-stack related.
+
+Currently based in **London, UK**.
 
 ---
