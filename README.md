@@ -1,23 +1,23 @@
 # Hi, I'm Jabril
 
 I'm a Software Engineer with 4 years of experience building and maintaining production systems at **BP**.  
-I've worked across the full stack — from React frontends and RESTful APIs to backend microservices, cloud infrastructure, and most recently, **platform engineering and observability**.
+I've worked across the full stack — from React frontends and RESTful APIs to backend microservices, cloud infrastructure, and more recently, **platform engineering and observability**.
 
-More Recently, I've transitioned into working with **Kubernetes**, **Go**, and the **LGTM observability stack** (Loki, Grafana, Tempo, Mimir), focusing on improving how we monitor, debug, and scale distributed systems across the organization.
+I'm currently working with **Kubernetes**, **Go**, and the **LGTM observability stack** (Loki, Grafana, Tempo, Mimir), focusing on improving how we monitor, debug, and scale distributed systems.
 
 ---
 
 ### What I Do at BP
 
-**Current Role (Recent Transition - Oct 2024):**  
-I'm now focused on **platform engineering and observability**, working with:
+**Current Focus:**  
+I'm now working on **platform engineering and observability**, using:
 - **Kubernetes** for container orchestration and cluster management  
 - **Go** for building internal tooling and backend services  
 - **LGTM Stack** (Loki, Grafana, Tempo, Mimir) for distributed tracing, logging, and metrics  
 - Improving service reliability, debugging workflows, and system observability across microservices  
 
-**Previous Work (2021-2024):**  
-Before this transition, I spent ~3 years building **full-stack applications and backend services**:
+**Background:**  
+I've spent several years at BP building **full-stack applications and backend services**:
 - Developed **microservices** in **C#** and **Node.js**, integrated with **React** dashboards for real-time analytics  
 - Designed and maintained **RESTful APIs** for high-throughput energy market data services  
 - Built **serverless applications** on **Azure**, including Functions, API Management, and automated CI/CD pipelines  
@@ -29,9 +29,7 @@ Before this transition, I spent ~3 years building **full-stack applications and 
 
 ### Technical Background
 
-I've worked across the full stack, which gives me a strong understanding of how systems connect from frontend to infrastructure:
-
-**Languages:** Go (learning), TypeScript, Python, C#, JavaScript, SQL  
+**Languages:** Go, TypeScript, Python, C#, JavaScript, SQL  
 **Frontend:** React, Next.js  
 **Backend & APIs:** Node.js, Django, ASP.NET, Express  
 **Cloud & Infrastructure:** Kubernetes, Docker, Helm, AWS, Azure  
@@ -63,7 +61,7 @@ Created a Python-based **AWS EC2 monitoring system** with real-time analytics da
 
 ### What I'm Working Toward
 
-- Building **production-grade Kubernetes expertise** through hands-on work and experimentation  
+- Building **production-grade Kubernetes expertise** through hands-on work  
 - Writing clean, efficient **Go code** for backend services and internal tooling  
 - Contributing to **observability infrastructure** that helps teams understand and improve their systems  
 - Bridging the gap between **product engineering and platform engineering** by applying full-stack thinking to infrastructure problems  
@@ -72,7 +70,7 @@ Created a Python-based **AWS EC2 monitoring system** with real-time analytics da
 
 ### Notes
 
-I've spent 4 years at BP working across different layers of the stack. While much of my recent work (especially around Kubernetes and LGTM) is internal and not public, I'm always happy to discuss **cloud-native engineering, observability, microservices architecture**, or anything full-stack related.
+I've spent 4 years at BP working across different layers of the stack. While much of my work is internal and not public, I'm always happy to discuss **cloud-native engineering, observability, microservices architecture**, or anything full-stack related.
 
 Currently based in **London, UK**.
 
