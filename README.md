@@ -1,4 +1,4 @@
-# Hi, I'm Jabril 🤙‍♂️
+# Hi, I'm Jabril 👍
 I'm a Software Engineer with 4 years of experience building and maintaining production systems at **BP** 💼.
 I've worked across the full stack, from React frontends and RESTful APIs to backend microservices, cloud infrastructure, and more recently, **platform engineering and observability** 🔍.
 I'm currently working with **Kubernetes**, **Go**, and the **LGTM observability stack** (Loki, Grafana, Tempo, Mimir), focusing on improving how we monitor, debug, and scale distributed systems 💻.
